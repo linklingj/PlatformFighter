@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Ground
+  - BlastZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background1
+  - Background2
+  - Player1
+  - Player2
+  - 
+  - 
+  - Platform
+  - PlatformP1
+  - PlatformP2
+  - PlatformP1P2
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1654492417
+    locked: 0
+  - name: Stage
+    uniqueID: 2061577645
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
